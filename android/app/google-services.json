@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398192964250",
+    "project_id": "mapsense-76e7a",
+    "storage_bucket": "mapsense-76e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398192964250:android:99be1ed5a08b5725cbe523",
+        "android_client_info": {
+          "package_name": "com.chinrust.mapsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdUonl7OYNOP41kZSuSWsvATbq5E3MTJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
